@@ -1,5 +1,5 @@
-<h1 style="text-align: center;">Hi there, I'm Inaya👋</h1> 
-<h4 style="text-align: center;">Software Developer & 3rd Year CS Student Based in Indonesia
+<h1 align="center" style="text-align: center;">Hi there, I'm Inaya👋</h1> 
+<h4 align="center" style="text-align: center;">Software Developer & 3rd Year CS Student Based in Indonesia
 </h4>
 <hr>
 
@@ -12,7 +12,7 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=inayarhmns&border_color=C8AE8C&show_icons=true&card_width=700&theme=noctis_minimus&hide_rank=true&hide=stars,issues" alt="inayarhmns's language stats"/>
 </a>
 
-<div style="display:flex; 
+<div align="center" style="display:flex; 
             align-items: center;">
 <img width="40" height="40" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmxkMjA1c2s1azBwdnJ4bnE4Y2E3M3Y1ZmsxZ3JvYmVlYjFxdTg5eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/QUXETVi1sNb9OCOJ30/giphy.webp"><h2>About Me</h2> </div>
 
@@ -21,7 +21,7 @@ I'm Inaya Rahmanisa, or Inaya/Nay for short. I develop websites, mobile apps (oc
 
 
 
-<div style="display:flex; 
+<div align="center" style="display:flex; 
             align-items: center;">
 <img width="40" height="40" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmxkMjA1c2s1azBwdnJ4bnE4Y2E3M3Y1ZmsxZ3JvYmVlYjFxdTg5eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/QUXETVi1sNb9OCOJ30/giphy.webp">
 <h2>Let's connect!</h2>

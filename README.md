@@ -1,13 +1,6 @@
-## Hi there 👋
+<h1 style="color: #C8AE8C;">Salut toi !👋 I'm Inaya</h1>
+<h2 style="color: #C8AE8C;">A Software Developer & 3rd year CS Student based in Indonesia.</h2>
 
-
-# Salut toi !👋 I'm Inaya, A Software Developer & 3rd year CS Student based in Indonesia.
-
-<div align="center">
-  <img width="100%" src="https://github.com/inayarhmns/inayarhmns/blob/master/assets/001697990006.jpg" alt="cover" />
-</div>
-
-</div>
 
 <br /><br />
 

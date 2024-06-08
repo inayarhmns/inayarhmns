@@ -1,5 +1,5 @@
-<h1 style="color: #C8AE8C;">Salut toi !👋 I'm Inaya</h1>
-<h2 style="color: #C8AE8C;">A Software Developer & 3rd year CS Student based in Indonesia.</h2>
+<h1 style="color: red;">Salut toi !👋 I'm Inaya</h1>
+<h2 style="color: red;">A Software Developer & 3rd year CS Student based in Indonesia.</h2>
 
 
 <br /><br />

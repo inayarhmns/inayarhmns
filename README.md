@@ -12,20 +12,17 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=inayarhmns&border_color=C8AE8C&show_icons=true&card_width=700&theme=noctis_minimus&hide_rank=true&hide=stars,issues" alt="inayarhmns's language stats"/>
 </a>
 
-<div align="center" style="display:flex; 
-            align-items: center;">
-<img width="40" height="40" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmxkMjA1c2s1azBwdnJ4bnE4Y2E3M3Y1ZmsxZ3JvYmVlYjFxdTg5eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/QUXETVi1sNb9OCOJ30/giphy.webp"><h2>About Me</h2> </div>
+
+
+## <img width="40" height="40" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmxkMjA1c2s1azBwdnJ4bnE4Y2E3M3Y1ZmsxZ3JvYmVlYjFxdTg5eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/QUXETVi1sNb9OCOJ30/giphy.webp">About Me
+<p>
 
 I'm Inaya Rahmanisa, or Inaya/Nay for short. I develop websites, mobile apps (occasionally), games, and ML projects every now and then. I like learning both programming & real languages. Outside of coding, I also do actual human activities, some of my favs are drawing, playing badminton, watching sports (only football, badminton, motogp, f1), and baking. 
 
+</p>
 
 
-
-<div align="center" style="display:flex; 
-            align-items: center;">
-<img width="40" height="40" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmxkMjA1c2s1azBwdnJ4bnE4Y2E3M3Y1ZmsxZ3JvYmVlYjFxdTg5eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/QUXETVi1sNb9OCOJ30/giphy.webp">
-<h2>Let's connect!</h2>
-</div>
+## <img width="40" height="40" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmxkMjA1c2s1azBwdnJ4bnE4Y2E3M3Y1ZmsxZ3JvYmVlYjFxdTg5eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/QUXETVi1sNb9OCOJ30/giphy.webp">Let's connect!
 
 
 <div  align="center">

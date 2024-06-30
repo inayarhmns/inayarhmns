@@ -17,7 +17,7 @@
 ## <img width="40" height="40" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmxkMjA1c2s1azBwdnJ4bnE4Y2E3M3Y1ZmsxZ3JvYmVlYjFxdTg5eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/QUXETVi1sNb9OCOJ30/giphy.webp">About Me
 <p>
 
-I'm Inaya Rahmanisa, or Inaya/Nay for short. I develop websites, mobile apps (occasionally), games, and ML projects every now and then. I like learning both programming & real languages. Outside of coding, I also do actual human activities, some of my favs are drawing, playing badminton, watching sports (only football, badminton, motogp, f1), and baking. 
+I'm Inaya Rahmanisa, or Inaya/Nay for short. I develop websites, mobile apps (occasionally), games, and ML projects every now and then. I like learning both programming & real languages. 
 
 </p>
 
